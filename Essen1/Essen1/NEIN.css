@@ -1,0 +1,14 @@
+.text {
+    flex-direction: row;
+}
+
+.text {
+font-size: 8pt;
+font-weight: bolder;
+}
+
+.container {
+    display:flex;
+    width: 100%;
+    justify-content:center;
+}
